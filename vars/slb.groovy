@@ -4,5 +4,5 @@ def gitdownload(repo)
 }
 def gitbiuld()
 {
-  sh 'mvn package'
+  sh "mvn package"
 }
